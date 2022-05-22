@@ -1,0 +1,4 @@
+CONTAINER_NAME: docker-python
+
+# Service versions
+PYTHON_VERSION: 3.9
